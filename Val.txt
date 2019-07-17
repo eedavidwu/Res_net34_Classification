@@ -1,0 +1,4 @@
+/home/Claasification/data/images/00000002102000000_310500_1.jpg 0
+/home/Claasification/data/images/00000002182000000_247500_7.jpg 0
+/home/Claasification/data/images/00000001912000000_97500_2.jpg 0
+
