@@ -46,5 +46,4 @@ self.dropout=nn.Dropout(p=0.8)
 
 python classifier_train.py
 
-![1564629960508](C:\Users\w50003869\AppData\Roaming\Typora\typora-user-images\1564629960508.png)
 
