@@ -47,3 +47,12 @@ self.dropout=nn.Dropout(p=0.8)
 python classifier_train.py
 
 
+
+## Test your model
+
+#### Firstly, choose the model in params.ckpt 
+
+#### Secondly, run the classifier_test.py:
+
+python classifier_test.py
+
